@@ -1,0 +1,43 @@
+<?php
+$students = [
+    ['name' => 'Alice', 'grade' => 90],
+    ['name' => 'Bob', 'grade' => 85],
+    ['name' => 'Charlie', 'grade' => 78]
+];
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student List</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Grade</th>
+    </tr>
+
+    <?php foreach ($students as $student): ?>
+        <tr>
+            <td><?php echo $student['name']; ?></td>
+            <td><?php echo $student['grade']; ?></td>
+        </tr>
+    <?php endforeach; ?>
+
+</table>
+
+</body>
+</html>
