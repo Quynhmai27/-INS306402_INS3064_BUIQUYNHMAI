@@ -1,0 +1,24 @@
+[
+    {
+        "username": "quynhmai2004",
+        "email": "quynhmaig@mis.edu.vn",
+        "fullname": "Bui Quỳnh Mai",
+        "password": "$2y$10$5sqU8dGhykbY2AUTJrYpeelCpgWUBICRrBZG7b100OGZC\/Yi8NDcu",
+        "bio": "",
+        "avatar": "",
+        "created_at": "2026-03-02 21:16:01",
+        "fail_count": 4,
+        "locked_until": 1772483665
+    },
+    {
+        "username": "Quỳnh Mai",
+        "email": "22070561@vnu.edu.vn",
+        "fullname": "Bùi Quỳnh Mai",
+        "password": "$2y$10$D.3spSEBQot7e.lJIoWvLeB64NmNd1f4nyfNdNO9mWNyxiEsARyXG",
+        "bio": "quin meii",
+        "avatar": "/Users/buimai/Downloads/quynhmai.JPG",
+        "created_at": "2026-03-02 21:30:01",
+        "fail_count": 0,
+        "locked_until": 0
+    }
+]
