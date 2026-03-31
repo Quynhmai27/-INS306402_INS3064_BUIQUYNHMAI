@@ -99,4 +99,6 @@ function daysAsMember($createdAt) {
 function bioLength($text) {
     return mb_strlen($text ?? '', 'UTF-8');
 }
-?>
+?>trz    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentProfile</title>
+    <link rel="stylesheet" href="style.css">    
