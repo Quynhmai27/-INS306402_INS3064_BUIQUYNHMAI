@@ -150,7 +150,7 @@ if ($stmt->execute()) {
 ?>
 
 <?php
-// add_book.php
+// create.php
 include('config.php');
 
 // Kiểm tra nếu form đã được submit
